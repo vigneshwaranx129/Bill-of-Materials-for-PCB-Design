@@ -57,11 +57,11 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Repair Guides — Component removal, orientation info </br>
 •	Diagnostics — Expected voltages, signal values </br>
 
-# Circuit Diagram
-<img width="1280" height="903" alt="WhatsApp Image 2026-10-14 at 16 11 08" src="https://github.com/user-attachments/assets/b243b7ed-f2ce-48bd-bec2-ed80dd817dc4" />
-
 # Output
 <img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/a0188749-8641-4a59-93a2-471534a0ba0f" />
+
+# Circuit Diagram
+<img width="1280" height="903" alt="WhatsApp Image 2026-10-14 at 16 11 08" src="https://github.com/user-attachments/assets/b243b7ed-f2ce-48bd-bec2-ed80dd817dc4" />
 
 # Result 
 Thus the bill of materials is prepared for the given PCB circuit.
